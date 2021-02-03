@@ -1,0 +1,8 @@
+,Importance_1,Importance_2,Importance_3,Importance_4,Importance_5,Importance_6,Importance_7,Importance_8
+skb,ind_var5,ind_var12_0,ind_var13_0,ind_var13,ind_var30,var36,ind_var43_recib_ult1,num_meses_var5_ult3
+ig,saldo_medio_var5_hace3,saldo_var30,saldo_medio_var5_ult3,saldo_medio_var5_hace2,saldo_var42,num_var35,saldo_var5,saldo_medio_var5_ult1
+anova,ind_var5,ind_var30,num_var4,num_var5,num_var30,num_var42,var36,num_meses_var5_ult3
+sfs,var15,ind_var5_0,ind_var5,ind_var12_0,ind_var13,ind_var30,num_var5,num_meses_var5_ult3
+etc,var38,var15,ind_var5,ind_var30,num_meses_var5_ult3,var36,num_var4,num_var45_hace3
+rf,var15,var38,ind_var30,num_var5,var36,num_var42,num_var30,num_meses_var5_ult3
+rfe,imp_op_var41_ult1,imp_op_var39_ult1,ind_var8_0,num_var4,num_var8_0,num_op_var41_ult3,num_var35,var38
